@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cleanest-repo"
+  site-url: "https://anasbraj.github.io/cleanest-repo"
+  description: "clean"
+  repo-branch: main
+  repo-url: "https://github.com/anasbraj/cleanest-repo"
